@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.lawofcontagion-14830424.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/V I Z I O N/Desktop/Games n Stuff/Game Development/Unreal/Projects/LawOfContagion/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "LawOfContagion-14830424 [UE Editor]"
+				}
+			}
+		}
+	]
+}
